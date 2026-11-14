@@ -28,6 +28,8 @@ are public here.
 ## Get in touch
 
 - Trying sange or following it: [sange.sh](https://sange.sh).
+- Security: [security@simtabi.com](mailto:security@simtabi.com) — never a public issue.
+  See the [security policy](https://github.com/sangehq/.github/security/policy).
 - Anything else: [opensource@simtabi.com](mailto:opensource@simtabi.com). A human
   reads it.
 
