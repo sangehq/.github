@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.sange.sh">
+  <a href="https://simtabi.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
       <img alt="sange — a git safety layer by Simtabi" src="banner-light.svg" width="888">
@@ -27,7 +27,7 @@ are public here.
 
 ## Get in touch
 
-- Trying sange or following it: [sange.sh](https://www.sange.sh).
+- Following sange: watch [sangehq](https://github.com/sangehq) for its first release.
 - Security: [security@simtabi.com](mailto:security@simtabi.com) — never a public issue.
   See the [security policy](https://github.com/sangehq/.github/security/policy).
 - Anything else: [opensource@simtabi.com](mailto:opensource@simtabi.com). A human
